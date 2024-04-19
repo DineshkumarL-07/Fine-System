@@ -1,1 +1,12 @@
-This is about the fine system for police department
+user ->
+    * Log In and Sign Up ( with EmailID, Password, PhoneNo )
+    * View Fines
+    * Pay bills
+    * View Status
+
+Cops ->
+    * Log In and Sign Up ( with EmailID, Password, PhoneNo, CopID )
+    * View User Fines
+    * Issuing Fines
+    * Other Actions
+    
